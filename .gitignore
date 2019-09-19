@@ -1,0 +1,4 @@
+ctags
+*.idea
+*/cmake-build-debug
+*/tags
