@@ -2,3 +2,9 @@ ctags
 *.idea
 */cmake-build-debug
 */tags
+
+*/centos-8-container.tar
+*/centos-8-container.tar.xz
+
+*/centos-7docker.tar.xz
+*.DS_Store

@@ -4,7 +4,6 @@
 #include <string.h>
 
 int main(int argc, char *argv[]) {
-
     fd_set rset;
     char buf[1024] = {0};
     while (1) {
@@ -24,7 +23,7 @@ int main(int argc, char *argv[]) {
         }
         printf("buf = %s\n", buf);
     }
-
-
     return 0;
 }
+
+
