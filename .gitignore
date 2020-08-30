@@ -1,3 +1,5 @@
+cpp/.DS_Store
+cpp/*.idea
 ctags
 *.idea
 */cmake-build-debug
